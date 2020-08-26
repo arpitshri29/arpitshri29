@@ -2,8 +2,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitshri29&layout=compact)](https://github.com/arpitshri29/github-readme-stats)
 
-[![Visits Badge](https://badges.pufler.dev/visits/arpitshri29/git-badges)](https://badges.pufler.dev)
-
 
 <!--
 
